@@ -1,0 +1,3 @@
+#earthquake_monitor
+
+一个小小的桌面软件
